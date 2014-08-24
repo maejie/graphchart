@@ -1,0 +1,11 @@
+{
+  "name": "graphviewer",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "dc.js": "~1.7.1",
+    "underscore": "~1.6.0",
+    "sigma": "~1.0.3"
+  },
+  "devDependencies": {}
+}
